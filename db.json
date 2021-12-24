@@ -1,0 +1,8 @@
+{
+  "profile": {
+    "app_name": "Larastock VUE",
+    "creator_name": "Sheva Athalla",
+    "app_description": "Stock Management Application using Laravel and vue",
+    "app_created_at": "Thursday, 23 December 2021"
+  }
+}
